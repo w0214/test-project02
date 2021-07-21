@@ -1,11 +1,6 @@
 <template>
   <div class="hello">
-    <table border="1" cellspacing="0" style="width:100%">
-        <tr><td></td><td>内容</td><td>内容</td><td>内容</td><td>内容</td></tr>
-        <tr><td><input type="radio" /></td><td>内容</td><td>内容</td><td>内容</td><td>内容</td></tr>
-        <tr><td><input type="radio" /></td><td>内容</td><td>内容</td><td>内容</td><td>内容</td></tr>
-        <tr><td><input type="radio" /></td><td>内容</td><td>内容</td><td>内容</td><td>内容</td></tr>
-    </table>
+    <h1>第一次修改</h1>
     
   </div>
 </template>
